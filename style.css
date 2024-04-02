@@ -1,0 +1,14 @@
+footer {
+  text-align: center;
+  padding: 5px;
+}
+
+
+.content {
+        max-width: 700px;
+        margin: auto;
+}
+
+.long_word {
+		overflow-wrap: break-word;
+}
